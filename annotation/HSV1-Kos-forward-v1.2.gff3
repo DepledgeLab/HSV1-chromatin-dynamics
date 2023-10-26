@@ -1,0 +1,217 @@
+##gff-version 3
+##sequence-region HSV1-Kos 1 151974
+
+HSV1-Kos	Dannotation	gene	414	1518	.	+	.	ID=RL1;Name=RL1;gbkey=Gene;gene=RL1;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	414	1518	.	+	.	ID=mRNA.RL1-1;Name=RL1-1;Parent=RL1;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	414	1518	.	+	.	ID=exon1;Parent=mRNA.RL1-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	501	1223	.	+	0	ID=cds-ALO18595.1;Parent=mRNA.RL1-1;gbkey=CDS;gene=RL1;product=neurovirulence factor ICP34.5;protein_id=ALO18595.1
+
+HSV1-Kos	Dannotation	gene	2095	5686	.	+	.	ID=RL2;Name=RL2;gbkey=Gene;gene=RL2;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	2095	5686	.	+	.	ID=mRNA.RL2-1;Name=RL2-1;Parent=RL2;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	2095	2281	.	+	.	ID=exon1;Parent=mRNA.RL2-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	3045	3711	.	+	.	ID=exon1;Parent=mRNA.RL2-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	3851	5686	.	+	.	ID=exon1;Parent=mRNA.RL2-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	2225	2281	.	+	0	ID=cds-ALO18596.1;Parent=mRNA.RL2-1;gbkey=CDS;gene=RL2;product=ubiquitin E3 ligase ICP0;protein_id=ALO18596.1
+HSV1-Kos	Dannotation	CDS	3045	3711	.	+	0	ID=cds-ALO18596.1;Parent=mRNA.RL2-1;gbkey=CDS;gene=RL2;product=ubiquitin E3 ligase ICP0;protein_id=ALO18596.1
+HSV1-Kos	Dannotation	CDS	3851	5475	.	+	2	ID=cds-ALO18596.1;Parent=mRNA.RL2-1;gbkey=CDS;gene=RL2;product=ubiquitin E3 ligase ICP0;protein_id=ALO18596.1
+
+
+HSV1-Kos	Dannotation	gene	9107	11514	.	+	.	ID=UL1/2/3;Name=UL1/2/3;gbkey=Gene;gene=UL1/2/3;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	9107	10816	.	+	.	ID=mRNA.UL1-1;Name=UL1-1;Parent=UL1/2/3;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	9599	10816	.	+	.	ID=mRNA.UL2-1;Name=UL2-1;Parent=UL1/2/3;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	9601	11586	.	+	.	ID=mRNA.UL3-1;Name=UL3-1;Parent=UL1/2/3;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	9107	10816	.	+	.	ID=exon1;Parent=mRNA.UL1-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	9599	10816	.	+	.	ID=exon1;Parent=mRNA.UL2-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	10836	11586	.	+	.	ID=exon1;Parent=mRNA.UL3-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	9187	9861	.	+	0	ID=cds-ALO18597.1;Parent=mRNA.UL1-1;gbkey=CDS;gene=UL1;product=envelope glycoprotein L;protein_id=ALO18597.1
+HSV1-Kos	Dannotation	CDS	9734	10738	.	+	0	ID=cds-ALO18598.1;Parent=mRNA.UL2-1;gbkey=CDS;gene=UL2;product=uracil-DNA glycosylase;protein_id=ALO18598.1
+HSV1-Kos	Dannotation	CDS	10842	11514	.	+	0	ID=cds-ALO18599.1;Parent=mRNA.UL3-1;gbkey=CDS;gene=UL3;product=nuclear protein UL3;protein_id=ALO18599.1
+
+HSV1-Kos	Dannotation	gene	14910	17915	.	+	.	ID=UL6/7;Name=UL6/7;gbkey=Gene;gene=UL6/7;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	14910	17915	.	+	.	ID=mRNA.UL6-1;Name=UL6-1;Parent=UL6/7;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	16818	17915	.	+	.	ID=mRNA.UL7-1;Name=UL7-1;Parent=UL6/7;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	14910	17915	.	+	.	ID=exon1;Parent=mRNA.UL6-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	16818	17915	.	+	.	ID=exon1;Parent=mRNA.UL7-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	14980	17010	.	+	0	ID=cds-ALO18602.1;Parent=mRNA.UL6-1;gbkey=CDS;gene=UL6;product=capsid portal protein;protein_id=ALO18602.1
+HSV1-Kos	Dannotation	CDS	16985	17875	.	+	0	ID=cds-ALO18603.1;Parent=mRNA.UL7-1;gbkey=CDS;gene=UL7;product=tegument protein UL7;protein_id=ALO18603.1
+
+HSV1-Kos	Dannotation	gene	23055	24519	.	+	.	ID=UL10;Name=UL10;gbkey=Gene;gene=UL10;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	22807	24519	.	+	.	ID=mRNA.UL10-1;Name=UL10-1;Parent=UL10;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	22891	24519	.	+	.	ID=mRNA.UL10-2;Name=UL10-2;Parent=UL10;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	22807	24519	.	+	.	ID=exon1;Parent=mRNA.UL10-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	22891	24519	.	+	.	ID=exon1;Parent=mRNA.UL10-2;gbkey=exon
+HSV1-Kos	Dannotation	CDS	23055	24476	.	+	0	ID=cds-ALO18606.1;Parent=mRNA.UL10-1;gbkey=CDS;gene=UL10;product=envelope glycoprotein M;protein_id=ALO18606.1
+HSV1-Kos	Dannotation	CDS	23055	24476	.	+	0	ID=cds-ALO18606.1;Parent=mRNA.UL10-2;gbkey=CDS;gene=UL10;product=envelope glycoprotein M;protein_id=ALO18606.1
+
+HSV1-Kos	Dannotation	gene	28655	34690	.	+	.	ID=UL15;Name=UL15;gbkey=Gene;gene=UL15;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	22891	24519	.	+	.	ID=mRNA.UL15-1;Name=UL15-1;Parent=UL15;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	28655	29891	.	+	.	ID=exon1;Parent=mRNA.UL15-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	33482	34690	.	+	.	ID=exon2;Parent=mRNA.UL15-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	28863	29891	.	+	0	ID=cds-ALO18611.1;Parent=mRNA.UL15-1;gbkey=CDS;gene=UL15;product=DNA packaging terminase subunit 1;protein_id=ALO18611.1
+HSV1-Kos	Dannotation	CDS	33482	34660	.	+	0	ID=cds-ALO18611.1;Parent=mRNA.UL15-1;gbkey=CDS;gene=UL15;product=DNA packaging terminase subunit 1;protein_id=ALO18611.1
+
+HSV1-Kos	Dannotation	gene	41721	43556	.	+	.	ID=UL21;Name=UL21;gbkey=Gene;gene=UL21;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	41721	43556	.	+	.	ID=mRNA.UL21-1;Name=UL21-1;Parent=UL21;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	41721	43556	.	+	.	ID=exon1;Parent=mRNA.UL21-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	41919	43526	.	+	0	ID=cds-ALO18617.1;Parent=mRNA.UL21-1;gbkey=CDS;gene=UL21;product=tegument protein UL21;protein_id=ALO18617.1
+
+HSV1-Kos	Dannotation	gene	47528	48608	.	+	.	ID=UL24;Name=UL24;gbkey=Gene;gene=UL24;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	47528	48608	.	+	.	ID=mRNA.UL24-1;Name=UL24-1;Parent=UL24;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	47528	48608	.	+	.	ID=exon1;Parent=mRNA.UL24-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	47579	48388	.	+	0	ID=cds-ALO18620.1;Parent=mRNA.UL24-1;gbkey=CDS;gene=UL24;product=nuclear protein UL24;protein_id=ALO18620.1
+
+HSV1-Kos	Dannotation	gene	48482	50635	.	+	.	ID=UL25;Name=UL25;gbkey=Gene;gene=UL25;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	48482	50635	.	+	.	ID=mRNA.UL25-1;Name=UL25-1;Parent=UL25;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	48482	50635	.	+	.	ID=exon1;Parent=mRNA.UL25-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	48654	50396	.	+	0	ID=cds-ALO18621.1;Parent=mRNA.UL25-1;gbkey=CDS;gene=UL25;product=DNA packaging tegument protein UL25;protein_id=ALO18621.1
+
+HSV1-Kos	Dannotation	gene	50663	52646	.	+	.	ID=UL26;Name=UL26;gbkey=Gene;gene=UL26;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	50518	52646	.	+	.	ID=mRNA.UL26-1;Name=UL26-1;Parent=UL26;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	51501	52646	.	+	.	ID=mRNA.UL26-2;Name=UL26-2;Parent=UL26;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	50518	52646	.	+	.	ID=exon1;Parent=mRNA.UL26-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	51501	52646	.	+	.	ID=exon1;Parent=mRNA.UL26-2;gbkey=exon
+HSV1-Kos	Dannotation	CDS	50663	52570	.	+	0	ID=cds-ALO18622.1;Parent=mRNA.UL26-1;gbkey=CDS;gene=UL26;product=capsid maturation protease;protein_id=ALO18622.1
+HSV1-Kos	Dannotation	CDS	51581	52570	.	+	0	ID=cds-ALO18623.1;Parent=mRNA.UL26-2;gbkey=CDS;gene=UL26.5;product=capsid scaffold protein;protein_id=ALO18623.1
+
+### May contain a weak internal CPAS?
+HSV1-Kos	Dannotation	gene	62478	66444	.	+	.	ID=UL30;Name=UL30;gbkey=Gene;gene=UL30;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	62478	66444	.	+	.	ID=mRNA.UL30-1;Name=UL30-1;Parent=UL30;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	62478	66444	.	+	.	ID=exon1;Parent=mRNA.UL30-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	62669	66376	.	+	0	ID=cds-ALO18627.1;Parent=mRNA.UL30-1;gbkey=CDS;gene=UL30;product=DNA polymerase catalytic subunit;protein_id=ALO18627.1
+
+HSV1-Kos	Dannotation	gene	68939	70812	.	+	.	ID=UL33/34/35;Name=UL33/34/35;gbkey=Gene;gene=UL33/34/35;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	68939	70812	.	+	.	ID=mRNA.UL33-1;Name=UL33-1;Parent=UL33/34/35;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	69318	70812	.	+	.	ID=mRNA.UL34-1;Name=UL34-1;Parent=UL33/34/35;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	70360	70812	.	+	.	ID=mRNA.UL35-1;Name=UL35-1;Parent=UL33/34/35;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	68939	70812	.	+	.	ID=exon1;Parent=mRNA.UL33-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	69318	70812	.	+	.	ID=exon1;Parent=mRNA.UL34-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	70360	70812	.	+	.	ID=exon1;Parent=mRNA.UL35-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	69023	69415	.	+	0	ID=cds-ALO18630.1;Parent=mRNA.UL33-1;gbkey=CDS;gene=UL33;product=DNA packaging protein UL33;protein_id=ALO18630.1
+HSV1-Kos	Dannotation	CDS	69495	70322	.	+	0	ID=cds-ALO18631.1;Parent=mRNA.UL34-1;gbkey=CDS;gene=UL34;product=nuclear egress membrane protein;protein_id=ALO18631.1
+HSV1-Kos	Dannotation	CDS	70428	70766	.	+	0	ID=cds-ALO18632.1;Parent=mRNA.UL35-1;gbkey=CDS;gene=UL35;product=small capsid protein;protein_id=ALO18632.1
+
+HSV1-Kos	Dannotation	gene	84253	85872	.	+	.	ID=UL38;Name=UL38;gbkey=Gene;gene=UL38;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	84253	85872	.	+	.	ID=mRNA.UL38-1;Name=UL38-1;Parent=UL38;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	84253	85872	.	+	.	ID=exon1;Parent=mRNA.UL38-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	84364	85761	.	+	0	ID=cds-ALO18635.1;Parent=mRNA.UL38-1;gbkey=CDS;gene=UL38;product=capsid triplex subunit 1;protein_id=ALO18635.1
+
+HSV1-Kos	Dannotation	gene	86063	90834	.	+	.	ID=UL39/40;Name=UL39/40;gbkey=Gene;gene=UL39/40;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	86063	90834	.	+	.	ID=mRNA.UL39-1;Name=UL39-1;Parent=UL39;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	89620	90834	.	+	.	ID=mRNA.UL40-1;Name=UL40-1;Parent=UL40;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	86063	90834	.	+	.	ID=exon1;Parent=mRNA.UL39-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	89620	90834	.	+	.	ID=exon1;Parent=mRNA.UL40-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	86276	89689	.	+	0	ID=cds-ALO18636.1;Parent=mRNA.UL39-1;gbkey=CDS;gene=UL39;product=ribonucleotide reductase subunit 1;protein_id=ALO18636.1
+HSV1-Kos	Dannotation	CDS	89758	90780	.	+	0	ID=cds-ALO18637.1;Parent=mRNA.UL40-1;gbkey=CDS;gene=UL40;product=ribonucleotide reductase subunit 2;protein_id=ALO18637.1
+
+
+HSV1-Kos	Dannotation	gene	92780	94488	.	+	.	ID=UL42;Name=UL42;gbkey=Gene;gene=UL42;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	92780	94488	.	+	.	ID=mRNA.UL42-1;Name=UL42-1;Parent=UL42;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	92780	94488	.	+	.	ID=exon1;Parent=mRNA.UL42-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	92945	94411	.	+	0	ID=cds-ALO18639.1;Parent=mRNA.UL42-1;gbkey=CDS;gene=UL42;product=DNA polymerase processivity subunit;protein_id=ALO18639.1
+
+HSV1-Kos	Dannotation	gene	94611	95912	.	+	.	ID=UL43;Name=UL43;gbkey=Gene;gene=UL43;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	94611	95912	.	+	.	ID=mRNA.UL43-1;Name=UL43-1;Parent=UL43;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	94611	95912	.	+	.	ID=exon1;Parent=mRNA.UL43-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	94633	95880	.	+	0	ID=cds-ALO18640.1;Parent=mRNA.UL43-1;gbkey=CDS;gene=UL43;product=envelope protein UL43;protein_id=ALO18640.1
+
+HSV1-Kos	Dannotation	gene	96017	98524	.	+	.	ID=UL44/45;Name=UL44/45;gbkey=Gene;gene=UL44/45;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	96017	98524	.	+	.	ID=mRNA.UL44-1;Name=UL44-1;Parent=UL44/45;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	97795	98524	.	+	.	ID=mRNA.UL45-1;Name=UL45-1;Parent=UL44/45;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	96017	98524	.	+	.	ID=exon1;Parent=mRNA.UL44-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	97795	98524	.	+	.	ID=exon1;Parent=mRNA.UL45-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	96141	97676	.	+	0	ID=cds-ALO18641.1;Parent=mRNA.UL44-1;gbkey=CDS;gene=UL44;product=envelope glycoprotein C;protein_id=ALO18641.1
+HSV1-Kos	Dannotation	CDS	97861	98379	.	+	0	ID=cds-ALO18642.1;Parent=mRNA.UL45-1;gbkey=CDS;gene=UL45;product=membrane protein UL45;protein_id=ALO18642.1
+
+HSV1-Kos	Dannotation	gene	106675	108008	.	+	.	ID=UL50;Name=UL50;gbkey=Gene;gene=UL50;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	106675	108008	.	+	.	ID=mRNA.UL50-1;Name=UL50-1;Parent=UL50;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	106675	108008	.	+	.	ID=exon1;Parent=mRNA.UL50-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	106844	107959	.	+	0	ID=cds-ALO18648.1;Parent=mRNA.UL50-1;gbkey=CDS;gene=UL50;product=deoxyuridine triphosphatase;protein_id=ALO18648.1
+
+HSV1-Kos	Dannotation	gene	108832	113296	.	+	.	ID=UL52/53;Name=UL52/53;gbkey=Gene;gene=UL52/53;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	108832	113296	.	+	.	ID=mRNA.UL52-1;Name=UL52-1;Parent=UL52/53;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	111607	113296	.	+	.	ID=mRNA.UL53-1;Name=UL53-1;Parent=UL52/53;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	108832	113296	.	+	.	ID=exon1;Parent=mRNA.UL52-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	111607	113296	.	+	.	ID=exon1;Parent=mRNA.UL53-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	108882	112058	.	+	0	ID=cds-ALO18650.1;Parent=mRNA.UL52-1;gbkey=CDS;gene=UL52;product=helicase-primase primase subunit;protein_id=ALO18650.1
+HSV1-Kos	Dannotation	CDS	112013	113029	.	+	0	ID=cds-ALO18651.1;Parent=mRNA.UL53-1;gbkey=CDS;gene=UL53;product=envelope glycoprotein K;protein_id=ALO18651.1
+
+HSV1-Kos	Dannotation	gene	113447	115135	.	+	.	ID=UL54;Name=UL54;gbkey=Gene;gene=UL54;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	113447	115135	.	+	.	ID=mRNA.UL54-1;Name=UL54-1;Parent=UL54;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	113447	115135	.	+	.	ID=exon1;Parent=mRNA.UL54-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	113568	115106	.	+	0	ID=cds-ALO18652.1;Parent=mRNA.UL54-1;gbkey=CDS;gene=UL54;product=multifunctional expression regulator;protein_id=ALO18652.1
+
+HSV1-Kos	Dannotation	gene	115292	115953	.	+	.	ID=UL55;Name=UL55;gbkey=Gene;gene=UL55;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	115292	115953	.	+	.	ID=mRNA.UL55-1;Name=UL55-1;Parent=UL55;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	115292	115953	.	+	.	ID=exon1;Parent=mRNA.UL55-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	115330	115890	.	+	0	ID=cds-ALO18653.1;Parent=mRNA.UL55-1;gbkey=CDS;gene=UL55;product=nuclear protein UL55;protein_id=ALO18653.1
+
+HSV1-Kos	Dannotation	gene	118622	126984	.	+	.	ID=LAT;Name=LAT;gbkey=Gene;gene=LAT;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	118622	126984	.	+	.	ID=mRNA.LAT-1;Name=LAT-1;Parent=LAT;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	119297	121255	.	+	.	ID=mRNA.LAT-2;Name=LAT-2kb-intron;Parent=LAT;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	119297	121255	.	+	.	ID=mRNA.LAT-3;Name=LAT-1.5kb-intron;Parent=LAT;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	118622	119296	.	+	.	ID=exon1;Parent=mRNA.LAT-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	121256	126984	.	+	.	ID=exon2;Parent=mRNA.LAT-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	119297	121255	.	+	.	ID=exon1;Parent=mRNA.LAT-2;gbkey=exon
+HSV1-Kos	Dannotation	exon	119297	119774	.	+	.	ID=exon1;Parent=mRNA.LAT-3;gbkey=exon
+HSV1-Kos	Dannotation	exon	120129	121255	.	+	.	ID=exon2;Parent=mRNA.LAT-3;gbkey=exon
+
+### putative small ORFs in LAT
+#HSV1-Kos	Dannotation	mRNA	118155	118622	.	+	.	ID=mRNA.LAT-o1;Name=UOL;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	118835	118994	.	+	.	ID=mRNA.LAT-o2;Name=L1;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	119105	119302	.	+	.	ID=mRNA.LAT-o3;Name=L2;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	119550	119761	.	+	.	ID=mRNA.LAT-o4;Name=L3;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	119588	119649	.	+	.	ID=mRNA.LAT-o5;Name=sRNA1;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	119614	119717	.	+	.	ID=mRNA.LAT-o6;Name=L4;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	119739	119936	.	+	.	ID=mRNA.LAT-o7;Name=L5;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	120003	121132	.	+	.	ID=mRNA.LAT-o8;Name=L8;Parent=LAT;gbkey=mRNA
+#HSV1-Kos	Dannotation	mRNA	120080	120129	.	+	.	ID=mRNA.LAT-o9;Name=sRNA2;Parent=LAT;gbkey=mRNA
+
+
+HSV1-Kos	Dannotation	gene	131961	133788	.	+	.	ID=US1;Name=US1;gbkey=Gene;gene=US1;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	131961	133788	.	+	.	ID=mRNA.US1-1;Name=US1-1;Parent=US1;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	131961	132195	.	+	.	ID=exon1;Parent=mRNA.US1-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	132363	133788	.	+	.	ID=exon2;Parent=mRNA.US1-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	132471	133781	.	+	0	ID=cds1;Parent=mRNA.US1-1;gbkey=CDS;gene=US1;product=regulatory protein ICP22;protein_id=ALO18657.1
+
+HSV1-Kos	Dannotation	gene	134801	137361	.	+	.	ID=US3/4;Name=US3/4;gbkey=Gene;gene=US3/4;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	134801	137361	.	+	.	ID=mRNA.US3-1;Name=US3;Parent=US3/4;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	136570	137361	.	+	.	ID=mRNA.US4-1;Name=US4;Parent=US3/4;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	134801	137361	.	+	.	ID=exon1;Parent=mRNA.US3-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	136570	137361	.	+	.	ID=exon1;Parent=mRNA.US4-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	135048	136493	.	+	0	ID=cds-ALO18659.1;Parent=mRNA.US3-1;gbkey=CDS;gene=US3;product=serine/threonine protein kinase US3;protein_id=ALO18659.1
+HSV1-Kos	Dannotation	CDS	136570	137289	.	+	0	ID=cds-ALO18660.1;Parent=mRNA.US4-1;gbkey=CDS;gene=US4;product=envelope glycoprotein G;protein_id=ALO18660.1
+
+HSV1-Kos	Dannotation	gene	137473	140845	.	+	.	ID=US5/6/7;Name=US5/6/7;gbkey=Gene;gene=US5/6/7;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	137473	140845	.	+	.	ID=mRNA.US5-1;Name=US5;Parent=US5/6/7;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	138182	140845	.	+	.	ID=mRNA.US6-1;Name=US6;Parent=US5/6/7;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	139540	140845	.	+	.	ID=mRNA.US7-1;Name=US7;Parent=US5/6/7;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	137473	140845	.	+	.	ID=exon1;Parent=mRNA.US5-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	138182	140845	.	+	.	ID=exon1;Parent=mRNA.US6-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	139540	140845	.	+	.	ID=exon1;Parent=mRNA.US7-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	137560	137838	.	+	0	ID=cds-ALO18661.1;Parent=mRNA.US5-1;gbkey=CDS;gene=US5;product=envelope glycoprotein J;protein_id=ALO18661.1
+HSV1-Kos	Dannotation	CDS	138247	139431	.	+	0	ID=cds-ALO18662.1;Parent=mRNA.US6-1;gbkey=CDS;gene=US6;product=envelope glycoprotein D;protein_id=ALO18662.1
+HSV1-Kos	Dannotation	CDS	139615	140766	.	+	0	ID=cds-ALO18663.1;Parent=mRNA.US7-1;gbkey=CDS;gene=US7;product=envelope glycoprotein I;protein_id=ALO18663.1
+
+HSV1-Kos	Dannotation	gene	140994	143503	.	+	.	ID=US8/8A/9;Name=US8/8A/9;gbkey=Gene;gene=US8/8A/9;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	140994	143503	.	+	.	ID=mRNA.US8-1;Name=US8;Parent=US8/8A/9;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	142450	143503	.	+	.	ID=mRNA.US8A-1;Name=US8A;Parent=US8/8A/9;gbkey=mRNA
+HSV1-Kos	Dannotation	mRNA	143070	143503	.	+	.	ID=mRNA.US9-1;Name=US9;Parent=US8/8A/9;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	140994	143503	.	+	.	ID=exon1;Parent=mRNA.US8-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	142450	143503	.	+	.	ID=exon1;Parent=mRNA.US8A-1;gbkey=exon
+HSV1-Kos	Dannotation	exon	143070	143503	.	+	.	ID=exon1;Parent=mRNA.US9-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	141055	142707	.	+	0	ID=cds-ALO18664.1;Parent=mRNA.US8-1;gbkey=CDS;gene=US8;product=envelope glycoprotein E;protein_id=ALO18664.1
+HSV1-Kos	Dannotation	CDS	142556	143128	.	+	0	ID=cds-ALO18665.1;Parent=mRNA.US8A-1;gbkey=CDS;gene=US8A;product=membrane protein US8A;protein_id=ALO18665.1
+HSV1-Kos	Dannotation	CDS	143125	143298	.	+	0	ID=cds-ALO18666.1;Parent=mRNA.US9-1;Dgbkey=CDS;gene=US9;product=membrane protein US9;protein_id=ALO18666.1
+
+HSV1-Kos	Dannotation	gene	146549	150782	.	+	.	ID=RS1_1;Name=RS1_1;gbkey=Gene;gene=RS1_1;gene_biotype=protein_coding
+HSV1-Kos	Dannotation	mRNA	146549	150782	.	+	.	ID=mRNA.RS1_1-1;Name=RS1_1;Parent=RS1_1;gbkey=mRNA
+HSV1-Kos	Dannotation	exon	146549	150782	.	+	.	ID=exon1;Parent=mRNA.RS1_1-1;gbkey=exon
+HSV1-Kos	Dannotation	CDS	146835	150719	.	+	0	ID=cds-ALO18670.1;Parent=mRNA.RS1_1-1;gbkey=CDS;gene=RS1_1;product=transcriptional regulator ICP4;protein_id=ALO18670.1
+
+
+
+
+
+
+
+
