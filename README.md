@@ -1,6 +1,6 @@
 # HSV1-chromatin-dynamics
-Differential association of histone H2A variants with differentially transcribed HSV-1 genomes
 
+## Differential association of histone H2A variants with differentially transcribed HSV-1 genomes
 
 Datasets associated with this study are located in the Histogram and depthBEDs folders while scripts used to generate plots are located in the scripts directory. See below for further details of how datasets were generated. 
 
